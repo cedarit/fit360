@@ -6,7 +6,7 @@ The curriculum is the source of truth for learning goals, scope, sequencing, saf
 
 | Term | Title | Core question it answers | Status |
 | --- | --- | --- | --- |
-| 1 | [The Body](term-01-the-body.md) | How does my body produce movement and energy? | Structure drafted |
+| 1 | [The Body](term-01-the-body.md) | How does my body produce movement and energy? | Chapter architecture and first lesson slice drafted |
 | 2 | Movement | How do I perform exercises well, and why are the dos and don'ts what they are? | Outline only |
 | 3 | Adaptation | How does training change the body, and how do I plan and progress it? | Outline only |
 | 4 | Nutrition | What should I eat for my goals, what about Indian diets, and which supplements are worth it? | Outline only |
@@ -14,6 +14,11 @@ The curriculum is the source of truth for learning goals, scope, sequencing, saf
 | 6 | Health Literacy and Longevity | What are body fat, visceral fat and lifestyle disease; why are they common in Indians; what do preventive tests measure; how do I age well? | Outline only |
 
 Terms 2–6 are outlines only. Their scope and order are set after Term 1 is approved. Term 1's Orientation module introduces enough evidence literacy to use before Term 5.
+
+Full lesson outlines and lab specifications live alongside their term file once written:
+
+- [`lessons/`](lessons/) — complete, reviewable lesson outlines. Today: [Lesson 0.1.1](lessons/term-01-module-0-chapter-1-lesson-1.md), Term 1's first vertical slice.
+- [`labs/`](labs/) — interactive-lab curriculum specifications. Today: the [Lat Pulldown Lab](labs/lat-pulldown-lab.md).
 
 ### Topics that must be covered somewhere
 

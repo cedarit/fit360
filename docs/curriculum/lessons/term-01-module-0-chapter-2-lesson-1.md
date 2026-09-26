@@ -44,7 +44,7 @@ Evidence hierarchy (strongest → weakest)
 
 **Question:** Two sources disagree about a health or fitness claim. How do I decide which one — if either — to trust?
 
-**Explanation:** Walk through Fit360's five-tier evidence hierarchy (from [PROJECT_CONTEXT.md](../../PROJECT_CONTEXT.md#4-evidence-policy)), one line of reasoning per tier:
+**Explanation:** Walk through Fit360's five-tier evidence hierarchy (from [PROJECT_CONTEXT.md](../../PROJECT_CONTEXT.md#4-evidence-policy)). The ranking itself — systematic reviews and meta-analyses outranking a single study or textbook — is not a Fit360 invention; it mirrors established evidence-based-medicine methodology, for example the [Oxford Centre for Evidence-Based Medicine's Levels of Evidence](https://www.cebm.ox.ac.uk/resources/levels-of-evidence/oxford-centre-for-evidence-based-medicine-levels-of-evidence-march-2009) and the GRADE approach to grading evidence quality. PROJECT_CONTEXT.md adapts that general methodology into Fit360's own five practical tiers (adding, for instance, "Fit360's own explanations and labs" as tier 5, which CEBM/GRADE don't cover, since they grade research evidence, not an education product's own content). One line of reasoning per tier:
 1. Primary sources and authoritative guidelines (including Indian bodies such as ICMR where relevant) — closest to the actual research or official recommendation.
 2. Systematic reviews and meta-analyses — combine many primary studies, which reduces the effect of any single study's flaws, bias or small sample size.
 3. Established textbooks — synthesised and vetted, but can lag behind the newest research.
@@ -71,7 +71,7 @@ These examples are templates for practising the skill — they do not name a rea
 - Why doesn't evidence from one population always transfer directly to another?
 - Name Fit360's four certainty-language terms.
 
-**Sources:** this lesson teaches Fit360's own evidence methodology, approved by Pankaj in [PROJECT_CONTEXT.md](../../PROJECT_CONTEXT.md#4-evidence-policy) — not an external factual health claim — so, like Lesson 0.1.1, its primary source is Fit360's own policy document, cited directly above. The three self-check examples are explicitly fictional templates, not real citations, and carry no real study, product or numeric claim.
+**Sources:** Fit360's specific five-tier structure and its "Fit360's own explanations" tier are Fit360's own policy, approved by Pankaj in [PROJECT_CONTEXT.md](../../PROJECT_CONTEXT.md#4-evidence-policy) — not an external claim, so that document is the primary source for the tiers as Fit360 defines them, same as Lesson 0.1.1. The underlying *methodology* — that systematic reviews/meta-analyses rank above a single study, textbook or organisational statement — is an established evidence-based-medicine convention, not something Fit360 asserts on its own authority; see the [Oxford CEBM Levels of Evidence (March 2009)](https://www.cebm.ox.ac.uk/resources/levels-of-evidence/oxford-centre-for-evidence-based-medicine-levels-of-evidence-march-2009) and the [GRADE Working Group](https://www.gradeworkinggroup.org/) approach, cited here as methodological grounding rather than reproduced. The three self-check examples are explicitly fictional templates, not real citations, and carry no real study, product or numeric claim.
 
 ## Explicitly out of scope for this lesson
 

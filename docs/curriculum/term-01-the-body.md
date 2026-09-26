@@ -110,6 +110,7 @@ Prerequisite: Module 0.
 - Assessment: labelling plus matching (muscle → naming convention it illustrates); feeds directly into the Lat Pulldown Lab's toggles.
 - Safe self-application: learners may observe their own muscles contracting during a simple, pain-free movement to reinforce naming; no assessment of imbalance, weakness or injury.
 - YouTube mapping: strong candidate; natural lead-in video for the Lat Pulldown Lab.
+- Full lesson outline: [Lesson 1.4.1](lessons/term-01-module-1-chapter-4-lesson-1.md). Source: OpenStax, *Anatomy and Physiology 2e*, §§11.1 and 11.2 (CC BY-NC-SA).
 
 ---
 

@@ -220,6 +220,7 @@ Prerequisite: Modules 1–3 (this module reuses anatomy, physiology and the safe
 - Assessment: short-answer/diagram exercise (predict, in general terms, which of two stances is more stable and why).
 - Safe self-application: learners may notice their own balance in a simple, low-risk stance; any fall risk, dizziness or instability concern triggers the standing referral line, not a balance "test."
 - YouTube mapping: can combine with 4.2 or stand alone as a short video.
+- Full lesson outline: [Lesson 4.3.1](lessons/term-01-module-4-chapter-3-lesson-1.md) — note: the cited source uses "centre of gravity," not "centre of mass"; see the lesson's own terminology bridge.
 
 **4.4 — Mobility, coordination and movement variability**
 - Outcomes: distinguish mobility from flexibility and from stability at an introductory level; explain movement variability as a normal, general concept without labelling any individual's variation as a fault.

@@ -2,8 +2,6 @@
 
 **Term 1, Module 1, Chapter 1.2, Lesson 1.** Completes the "full teaching and practice" of superior/inferior and proximal/distal previewed in Lesson [1.1.1](term-01-module-1-chapter-1-lesson-1.md), and adds anterior/posterior, medial/lateral, and the three cardinal planes.
 
-**Dependency note:** this lesson is referenced from Lesson 1.1.1 as "Chapter 1.2, not yet written" — that forward reference should be updated to a real link once this lesson merges. Lesson 1.1.1 lives on FIT-10 (PR #6, not yet merged), so it doesn't exist on this branch to edit directly; linked FIT-11 as blocked by FIT-10 in Jira, matching the pattern used for FIT-8/FIT-9's cross-references.
-
 ## Chapter framing
 
 **Why it matters:** Lesson 1.1.1 gave learners a fixed reference position and two body-region categories. This lesson gives them the rest of the vocabulary needed to describe *where* something is and *which way* a movement goes — vocabulary every later chapter (joint actions in Module 4, the Lat Pulldown Lab) depends on.

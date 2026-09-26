@@ -1,8 +1,6 @@
 # Lesson 0.3.1 — Safe self-application and the standing referral rule
 
-**Term 1, Module 0, Chapter 0.3, Lesson 1.** A complete, reviewable lesson outline for Fit360's most safety-critical Term 1 lesson.
-
-**Dependency note:** `docs/curriculum/term-01-the-body.md`'s Chapter 0.3 entry is being extended by a separate, not-yet-merged change (FIT-6) to add this same emergency pathway to the architecture doc. To avoid a certain merge conflict with that pending change, this lesson file is self-contained and cites [`docs/product/safety-and-ai-policy.md`](../../product/safety-and-ai-policy.md) — already merged — directly for both the referral-line and emergency-symptom wording, rather than linking to Chapter 0.3's in-progress text. A follow-up will cross-link this lesson from `term-01-the-body.md` once FIT-6 merges.
+**Term 1, Module 0, Chapter 0.3, Lesson 1.** A complete, reviewable lesson outline for Fit360's most safety-critical Term 1 lesson. See [Chapter 0.3 in term-01-the-body.md](../term-01-the-body.md#module-0-orientation-evidence-scope-and-safety) for the chapter-level architecture this lesson implements.
 
 ## Chapter framing
 

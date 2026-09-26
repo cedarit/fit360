@@ -28,7 +28,7 @@ There is no shared staging environment.
 3. **Develop with TDD:** write a failing test, make the smallest change that passes, then refactor with tests green.
 4. **Verify locally:** run unit and integration tests. Run Playwright for user-facing flows. Check accessibility and safety copy where relevant.
 5. **Pull request:** push a focused branch (`feature/FIT-123-description`, `fix/…`, `docs/…`, `content/…`). The PR title starts with the Jira key. Include test evidence, and screenshots or recordings for UI changes.
-6. **Review:** the other AI reviews first where practical, then Pankaj. The reviewer checks code, tests, safety wording, sources and scope.
+6. **Review:** the other AI reviews first where practical. Pankaj reviews too wherever the conditional auto-merge rule doesn't apply (see AGENTS.md) — an ordinary curriculum PR the cross-reviewer unambiguously clears skips this step. The reviewer checks code, tests, safety wording, sources and scope.
 7. **Merge and release:** squash merge only after checks pass. For an ordinary curriculum PR the cross-reviewer has unambiguously cleared, the author may squash-merge directly (see AGENTS.md's conditional auto-merge rule); every other PR still needs Pankaj's approval and merge. Deploy, run smoke checks and have a rollback plan.
 8. **Observe:** log defects, feedback, safety concerns and follow-ups in Jira. Urgent safety issues come first.
 

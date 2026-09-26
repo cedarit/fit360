@@ -68,6 +68,7 @@ No prerequisites. This module must be completed before any other, because it def
 - Assessment: ungraded wayfinding check ("where would you find X"), not a knowledge test.
 - Safe self-application: not applicable — product orientation, not health content.
 - YouTube mapping: optional; may fold into channel trailer/about content instead of a standalone lesson video.
+- Full lesson outline: [Lesson 0.4.1](lessons/term-01-module-0-chapter-4-lesson-1.md).
 
 ---
 

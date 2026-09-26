@@ -28,6 +28,7 @@ Full lesson outlines and lab specifications live alongside their term file once 
   - [Lesson 1.4.1](lessons/term-01-module-1-chapter-4-lesson-1.md) — completes Module 1
   - [Lesson 2.1.1](lessons/term-01-module-2-chapter-1-lesson-1.md)
   - [Lesson 2.2.1](lessons/term-01-module-2-chapter-2-lesson-1.md)
+  - [Lesson 4.1.1](lessons/term-01-module-4-chapter-1-lesson-1.md) — Module 4's first lesson (Module 2's remaining chapters and all of Module 3 are drafted on their own open branches, not yet merged)
 - [`labs/`](labs/) — interactive-lab curriculum specifications. Today: the [Lat Pulldown Lab](labs/lat-pulldown-lab.md).
 
 ### Topics that must be covered somewhere

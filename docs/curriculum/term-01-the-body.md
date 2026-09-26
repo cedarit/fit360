@@ -5,9 +5,9 @@ Term 1 builds the shared language for everything that follows in Fit360. It intr
 **Status:** chapter-level architecture and the first vertical lesson slice drafted; awaiting Pankaj's approval. Only one lesson (below) and the Lat Pulldown Lab spec are written in full; the remaining chapters are outlines (outcomes, vocabulary, assessment and safety shape) until Term 1 itself is approved.
 
 **Related deliverables:**
-- First vertical lesson slice: [Lesson 0.1.1 — What Fit360 is and isn't](lessons/term-01-module-0-chapter-1-lesson-1.md)
+- First vertical lesson slice: [Lesson 0.1.1 — What Fit360 is and isn't](lessons/term-01-module-0-chapter-1-lesson-1.md) — confirmed by Pankaj as Term 1's first vertical slice (see [DECISIONS.md](../DECISIONS.md#decided))
 - Flagship lab specification: [Lat Pulldown Lab](labs/lat-pulldown-lab.md)
-- Open decision raised by this draft: see [DECISIONS.md](../DECISIONS.md#open), "First vertical lesson slice topic"
+- Open decision this draft does not settle: see [DECISIONS.md](../DECISIONS.md#open), "Graded/gating Term 1 assessments"
 
 ## Chapter numbering
 
@@ -36,7 +36,7 @@ No prerequisites. This module must be completed before any other, because it def
 | --- | --- | --- | --- |
 | 0.1 | What Fit360 is and isn't | None | medical literacy, medical practice, diagnosis, treatment, rehabilitation, therapeutic diet, standing referral line |
 | 0.2 | How to judge a claim | 0.1 | evidence hierarchy, systematic review, meta-analysis, primary source, conflict of interest, population validity, certainty language |
-| 0.3 | Safe self-application and the standing referral rule | 0.1 | self-observation, self-diagnosis, standing referral rule, concerning symptoms |
+| 0.3 | Safe self-application and the standing referral rule | 0.1 | self-observation, self-diagnosis, standing referral rule, concerning symptoms, emergency pathway, emergency symptoms |
 | 0.4 | How to use the lessons, videos and the app together | 0.1 | lesson player, recall cards, evidence card, canonical source |
 
 **0.1 — What Fit360 is and isn't**
@@ -52,10 +52,15 @@ No prerequisites. This module must be completed before any other, because it def
 - YouTube mapping: strong second-video candidate; reusable as a "how to read health news" explainer, referenced again before Term 5.
 
 **0.3 — Safe self-application and the standing referral rule**
-- Outcomes: state the standing referral line from memory and explain why it exists; distinguish neutral self-observation from self-diagnosis; identify situations that require stopping and seeing a clinician rather than continuing a lesson activity.
-- Assessment: scenario quiz — vignettes where the learner decides "continue the lesson activity" vs "stop and refer to a clinician," with explanations.
-- Safe self-application: this chapter defines the boundary every later self-application activity in the curriculum inherits.
-- YouTube mapping: short-form explainer, likely reused as a pinned clip on every video rather than a standalone long video.
+- Outcomes: state the standing referral line from memory and explain why it exists; distinguish neutral self-observation from self-diagnosis; identify situations that require stopping and seeing a clinician rather than continuing a lesson activity; distinguish those *ordinary* concerning symptoms from *emergency* symptoms (chest pain, fainting, severe breathlessness, signs of stroke or similar) that require immediate emergency care, not a routine referral, and state the India emergency number (112).
+- Assessment: scenario quiz — vignettes where the learner sorts into three outcomes, not two: "continue the lesson activity," "stop and see a clinician when you can" or "this is an emergency — get help now," with explanations for each.
+- Safe self-application: this chapter defines the boundary every later self-application activity in the curriculum inherits, and the two-tier escalation (ordinary referral vs emergency) every later chapter's self-application note assumes.
+- YouTube mapping: short-form explainer, likely reused as a pinned clip on every video rather than a standalone long video. The emergency pathway specifically should appear as its own short, highly shareable clip, since it is the one piece of Term 1 content a learner most needs to recall instantly under pressure.
+
+**The emergency pathway, kept separate from the standing referral line:**
+- *Standing referral line* (routine, non-urgent): "Stop and speak to a qualified doctor or clinician. Fit360 is education, not medical assessment or treatment." Used for ordinary concerning symptoms, injury or health questions that can wait for an appointment.
+- *Emergency pathway* (urgent, time-critical): chest pain, fainting, severe breathlessness, signs of stroke (for example sudden weakness on one side of the body, slurred speech, or a sudden and severe headache) or similar require emergency care immediately, not a lesson activity and not a scheduled doctor's visit. In India, dial 112. This mirrors the emergency-symptom rule already in the [safety and AI policy](../product/safety-and-ai-policy.md#rules-for-the-built-in-ai-assistant) for the AI assistant, made explicit here for curriculum content and self-application activities too.
+- Every Term 1 self-application activity that could plausibly surface a concerning symptom must be able to point a learner to whichever of these two is appropriate — they are not interchangeable, and a learner should never be routed to "see a doctor sometime" when the emergency pathway applies.
 
 **0.4 — How to use the lessons, videos and the app together**
 - Outcomes: describe how one lesson exists as app content, a video and curriculum text, and why; locate sources and recall cards for a lesson; state that the app (not certification material) is Fit360's canonical source.
@@ -231,6 +236,8 @@ Activities may ask learners to observe and describe their own movement in neutra
 
 Standing guidance: *stop activity and seek qualified care for concerning symptoms, injury or health questions. Fit360 education is not a substitute for medical assessment, treatment, rehabilitation or therapeutic nutrition advice.*
 
+**Emergency pathway, separate from the standing referral line above:** chest pain, fainting, severe breathlessness, signs of stroke or similar are never treated as "concerning symptoms" to raise with a doctor later — they require emergency care immediately. In India, dial 112. Chapter 0.3 teaches this distinction explicitly and is where every other chapter's safe self-application note traces back to for it.
+
 ## Evidence and assessment
 
 Learning checks focus on retrieval, matching terms, labelling diagrams, explaining how systems interact and interpreting general claims with evidence in mind. They never assess diagnosis, treatment selection, rehabilitation planning or individual nutrition therapy. Per-chapter assessment approaches are listed above; all of them are formative and ungraded at this architecture stage — whether any chapter later becomes a graded/gating check (for example before unlocking Term 2) is a product decision, not a curriculum one, and is not made here.
@@ -245,6 +252,4 @@ Each chapter should yield at least one video; per-chapter recommendations are li
 
 Term 1 is complete when its outcomes, module and chapter objectives, safety review, evidence references and assessment blueprint are approved, and the first vertical slice (the lesson at [0.1.1](lessons/term-01-module-0-chapter-1-lesson-1.md) plus the [Lat Pulldown Lab](labs/lat-pulldown-lab.md)) is signed off. Product features are then built to serve this structure.
 
-Two things remain explicitly open and are not decided by this document — see [DECISIONS.md](../DECISIONS.md#open):
-- Which chapter anchors the first vertical lesson slice (Module 0 vs Module 1 — this draft recommends Module 0 and writes 0.1.1 as the example, but does not treat that choice as settled).
-- Whether any Term 1 chapter assessment should ever be a graded/gating check rather than formative practice.
+Module 0 as the anchor for the first vertical lesson slice is now decided (see [DECISIONS.md](../DECISIONS.md#decided)). One thing remains explicitly open and is not decided by this document — see [DECISIONS.md](../DECISIONS.md#open): whether any Term 1 chapter assessment should ever be a graded/gating check rather than formative practice.

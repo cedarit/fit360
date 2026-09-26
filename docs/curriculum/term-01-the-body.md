@@ -208,6 +208,7 @@ Prerequisite: Modules 1–3 (this module reuses anatomy, physiology and the safe
 - Assessment: label/match exercise (movement clip or diagram → joint action + plane); directly reused by the Lat Pulldown Lab.
 - Safe self-application: learners may name the joint action of their own simple, pain-free movement; no form correction or injury-risk judgement.
 - YouTube mapping: strong candidate; a visual joint-action reference video reusable across Term 2.
+- Full lesson outline: [Lesson 4.1.1](lessons/term-01-module-4-chapter-1-lesson-1.md)
 
 **4.2 — Force, torque and leverage**
 - Outcomes: define force, torque and leverage in plain language with a movement example each; explain qualitatively how changing a lever arm changes the torque needed at a joint, without prescribing "better" or "worse" technique for an individual.

@@ -169,6 +169,7 @@ Prerequisite: Module 2.
 - Assessment: short concept check ("why can't the body just store enough ATP for a workout?").
 - Safe self-application: none — pure concept chapter.
 - YouTube mapping: short animation; strong opener for an energy-systems mini-series.
+- Full lesson outline: [Lesson 3.1.1](lessons/term-01-module-3-chapter-1-lesson-1.md). Source: OpenStax, *Anatomy and Physiology 2e*, §§10.3 and 24.1 (CC BY-NC-SA).
 
 **3.2 — The three energy pathways: phosphagen, glycolytic and oxidative**
 - Outcomes: name the three pathways and describe, qualitatively, the type of effort each suits (very short/high-intensity; short-to-moderate; longer/lower-intensity); state that specific duration cut-offs vary between sources and individuals, so Fit360 presents cited ranges rather than fixed numbers.

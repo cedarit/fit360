@@ -187,6 +187,7 @@ Prerequisite: Module 2.
 - Assessment: short-answer plus a scenario ("continue training tomorrow" vs "this needs a clinician") reusing the 0.3 decision format.
 - Safe self-application: learners may note their own general fatigue or soreness in neutral language; Fit360 gives no individualised recovery prescription, and concerning or persistent symptoms trigger the standing referral line.
 - YouTube mapping: good finale video pairing with 3.1–3.3 as a mini-series.
+- Full lesson outline: [Lesson 3.4.1](lessons/term-01-module-3-chapter-4-lesson-1.md). Source: OpenStax, *Anatomy and Physiology 2e*, §10.6 (CC BY-NC-SA).
 
 ---
 

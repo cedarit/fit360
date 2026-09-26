@@ -214,6 +214,7 @@ Prerequisite: Modules 1–3 (this module reuses anatomy, physiology and the safe
 - Assessment: applied short-answer/diagram exercise (identify the lever arm in a simple diagram) — conceptual, not a technique-correction exercise.
 - Safe self-application: none beyond the general movement-description boundary; no individual technique verdicts.
 - YouTube mapping: strong candidate — anchors the Lat Pulldown Lab's "why does grip width feel different" content.
+- Full lesson outline: [Lesson 4.2.1](lessons/term-01-module-4-chapter-2-lesson-1.md)
 
 **4.3 — Balance, centre of mass and stability**
 - Outcomes: define centre of mass and base of support and their general relationship to balance; describe qualitatively what affects stability in a simple stance or movement.

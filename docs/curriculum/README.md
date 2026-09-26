@@ -17,7 +17,7 @@ Terms 2–6 are outlines only. Their scope and order are set after Term 1 is app
 
 Full lesson outlines and lab specifications live alongside their term file once written:
 
-- [`lessons/`](lessons/) — complete, reviewable lesson outlines. Today: [Lesson 0.1.1](lessons/term-01-module-0-chapter-1-lesson-1.md), Term 1's first vertical slice.
+- [`lessons/`](lessons/) — complete, reviewable lesson outlines. Today: [Lesson 0.1.1](lessons/term-01-module-0-chapter-1-lesson-1.md) (Term 1's first vertical slice) and [Lesson 0.3.1](lessons/term-01-module-0-chapter-3-lesson-1.md).
 - [`labs/`](labs/) — interactive-lab curriculum specifications. Today: the [Lat Pulldown Lab](labs/lat-pulldown-lab.md).
 
 ### Topics that must be covered somewhere

@@ -137,6 +137,7 @@ Prerequisite: Module 1.
 - Assessment: true/false-with-explanation plus a "match the description to fibre type" exercise; no numeric or percentage-based questions.
 - Safe self-application: no self-testing of "which fibre type am I" — population-level physiology only.
 - YouTube mapping: animation candidate; script must state plainly that no percentages are being claimed for any individual.
+- Full lesson outline: [Lesson 2.2.1](lessons/term-01-module-2-chapter-2-lesson-1.md). Source: OpenStax, *Anatomy and Physiology 2e*, §§10.2, 10.3 and 10.5 (CC BY-NC-SA).
 
 **2.3 — Cardiovascular and respiratory roles in oxygen transport and exchange**
 - Outcomes: trace, in general terms, the path of oxygen from breathing in to use in a working muscle; explain qualitatively why heart rate and breathing rate rise during activity; describe heart rate as an observable, non-diagnostic signal.

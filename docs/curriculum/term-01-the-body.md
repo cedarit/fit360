@@ -88,6 +88,7 @@ Prerequisite: Module 0.
 - Assessment: diagram-labelling (body regions) plus matching (organ system → one movement-relevant function); retrieval-based.
 - Safe self-application: learners may point to regions on their own body to reinforce vocabulary; no self-assessment of health or structure.
 - YouTube mapping: strong visual/animation candidate.
+- Full lesson outline: [Lesson 1.1.1](lessons/term-01-module-1-chapter-1-lesson-1.md). Source: OpenStax, *Anatomy and Physiology 2e*, §§1.2, 1.6 and 7.1 (CC BY-NC-SA).
 
 **1.2 — Directional terms and planes of motion**
 - Outcomes: use directional terms correctly; name the three cardinal planes with an everyday movement example for each; distinguish a plane of motion from a joint action (previewed; developed in Module 4).

@@ -95,6 +95,7 @@ Prerequisite: Module 0.
 - Assessment: labelling plus a "name the plane" exercise from a short movement clip.
 - Safe self-application: learners may describe the plane of their own simple, pain-free movement in neutral language; not a form or injury-risk assessment.
 - YouTube mapping: pairs with 1.1 in one video, or as a short follow-up.
+- Full lesson outline: [Lesson 1.2.1](lessons/term-01-module-1-chapter-2-lesson-1.md). Source: OpenStax, *Anatomy and Physiology 2e*, §1.6 (CC BY-NC-SA).
 
 **1.3 — The skeleton, joints and connective tissue**
 - Outcomes: identify commonly referenced bones and joints at an introductory level; classify a joint by general type; describe the general role of ligaments, tendons and cartilage without claims about an individual's tissue health.

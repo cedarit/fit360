@@ -8,13 +8,13 @@
 
 **Learning objectives:**
 1. Name and describe, in plain language, the joint actions: flexion, extension, abduction, adduction, internal (medial) rotation, external (lateral) rotation, pronation and supination.
-2. Connect each joint action to the plane of motion it typically occurs in (from Lesson 1.2.1).
+2. Connect flexion/extension and abduction/adduction to the plane of motion each typically occurs in (from Lesson 1.2.1), and explain that internal/external rotation and pronation/supination are rotational movements not confined to a single cardinal plane.
 3. Given a simple, everyday movement, name the joint action(s) involved, at an introductory level.
 
 **Learner capabilities (what a learner can do afterwards):**
 - Given a labelled diagram or short clip of a simple joint movement, name the joint action.
 - Explain, in one sentence each, what flexion/extension and abduction/adduction do to the angle or position of a limb.
-- State which plane each joint action pair is typically associated with.
+- State which plane flexion/extension and abduction/adduction are each typically associated with, and explain why internal/external rotation and pronation/supination aren't given a single-plane label instead.
 
 **Prerequisites:** [Lesson 1.2.1 — Directional terms and planes of motion](term-01-module-1-chapter-2-lesson-1.md); [Lesson 1.3.1 — The skeleton, joints and connective tissue](term-01-module-1-chapter-3-lesson-1.md).
 
@@ -64,7 +64,7 @@ Reconnecting to Lesson 1.2.1's planes: flexion/extension pair with the sagittal 
 - Labelling: given a short clip or diagram of a simple joint movement, name the joint action.
 - Matching: match each joint action pair to the plane it typically occurs in (or "rotational, no single plane" for internal/external rotation and pronation/supination).
 
-**Practical observation (safe self-application):** "Perform (or picture) one simple, pain-free arm or leg movement. Name the joint action using today's vocabulary, and say which plane it's associated with if it has one." This is naming a joint action, not assessing whether the movement is correct, safe or healthy — no form or injury-risk judgement is made, consistent with the safe self-application rule set in Chapter 0.3.
+**Practical observation (safe self-application):** "Perform (or picture) one simple, pain-free arm or leg movement. Name the joint action using today's vocabulary, and say which plane it's associated with if it has one. If this movement causes pain or another concerning symptom, stop and speak to a qualified doctor or clinician; Fit360 is education, not medical assessment or treatment." This is naming a joint action, not assessing whether the movement is correct, safe or healthy — no form or injury-risk judgement is made, consistent with the safe self-application rule set in Chapter 0.3.
 
 **Recall cards (spaced-repetition prompts):**
 - What does flexion do to the angle at a joint? What does extension do?

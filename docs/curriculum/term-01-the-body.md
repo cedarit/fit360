@@ -129,6 +129,7 @@ Prerequisite: Module 1.
 - Assessment: concept-matching plus short "explain in your own words" prompts.
 - Safe self-application: learners may notice their own balance/coordination during a simple, low-risk activity (for example briefly standing on one leg) in neutral language; any dizziness, numbness or loss of balance triggers the standing referral line, not a lesson activity.
 - YouTube mapping: good animation candidate (nerve signal → muscle contraction pathway).
+- Full lesson outline: [Lesson 2.1.1](lessons/term-01-module-2-chapter-1-lesson-1.md). Source: OpenStax, *Anatomy and Physiology 2e*, §§12.1, 14.1 and 14.3 (CC BY-NC-SA).
 
 **2.2 — Muscle structure, contraction and fibre types**
 - Outcomes: describe the general structure of skeletal muscle and the sliding-filament concept qualitatively; distinguish, at an introductory level, the general characteristics of slower, more fatigue-resistant fibres versus faster, more powerful fibres, without asserting an individual's fibre-type proportions; explain why fibre type is a population-level generalisation Fit360 cannot measure or claim for an individual learner.

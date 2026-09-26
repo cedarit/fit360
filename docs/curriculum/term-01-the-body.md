@@ -226,6 +226,7 @@ Prerequisite: Modules 1–3 (this module reuses anatomy, physiology and the safe
 - Assessment: short-answer plus a concept check distinguishing the three terms.
 - Safe self-application: learners may observe that their own version of a simple movement differs from someone else's, in neutral language; Fit360 does not rate this good/bad/normal/abnormal.
 - YouTube mapping: useful short explainer; also a bridge to Term 2 (technique).
+- Full lesson outline: [Lesson 4.4.1](lessons/term-01-module-4-chapter-4-lesson-1.md)
 
 **4.5 — Describing movement without labelling it normal, abnormal, safe or unsafe for a specific person**
 - Outcomes: explain why Fit360 avoids labelling an individual's movement as normal, abnormal, safe or unsafe; practise describing a movement using only 4.1–4.4's vocabulary rather than a value judgement; restate the standing referral rule in this specific context.

@@ -26,7 +26,7 @@
 ```
 Something noticed during a lesson activity or ordinary life
    │
-   ├─ Ordinary and expected (e.g., breathing faster on a brisk walk)
+   ├─ Ordinary and expected (e.g., breathing a little faster on a brisk walk, still able to talk normally)
    │      → continue the activity; describe it in neutral language
    │
    ├─ Concerning, not urgent (e.g., a nagging ache, a symptom question)
@@ -39,10 +39,10 @@ Something noticed during a lesson activity or ordinary life
 **Safety and scope boundary:** this lesson names only the emergency symptoms already listed in [safety-and-ai-policy.md](../../product/safety-and-ai-policy.md) — chest pain, fainting, severe breathlessness, signs of stroke or similar — and does not invent any additional symptom category. It never diagnoses what a symptom means; when genuinely unsure which bucket applies, the lesson teaches treating it as the more urgent case rather than guessing.
 - Standing referral line: *"Stop and speak to a qualified doctor or clinician. Fit360 is education, not medical assessment or treatment."*
 - Emergency pathway: chest pain, fainting, **severe** breathlessness (for example, breathlessness bad enough that you can't speak a full sentence without stopping, or that comes on suddenly and doesn't ease with rest — an everyday description, not a clinical test, that mirrors public emergency-care guidance such as the NHS's "when to call 999" advice), signs of stroke (for example sudden weakness on one side of the body, slurred speech, or a sudden and severe headache) or similar — seek emergency care immediately; in India, dial 112.
-- This is deliberately distinct from breathing faster or feeling out of breath during ordinary activity (see the "continue" examples below) — the word "severe" is doing real work here, and this lesson gives it a concrete, recognisable marker rather than leaving it to the learner's guess.
+- This is deliberately distinct from breathing a little faster during ordinary activity while still able to talk normally (see the "continue" examples below) — the word "severe" is doing real work here, and this lesson gives it a concrete, recognisable marker rather than leaving it to the learner's guess.
 
 **Diagnostic quiz (ungraded, before teaching, to surface assumptions):**
-1. True or False: feeling a bit more out of breath than usual on a walk is always a medical emergency. *(False.)*
+1. True or False: breathing a little faster during a brisk walk, while you can still chat normally, is a medical emergency. *(False.)*
 2. Multiple choice: chest pain during any activity should be treated as — (a) something to mention at your next doctor's visit, (b) a reason to get emergency care immediately, (c) safe to ignore if it passes. *(b.)*
 3. True or False: "see a doctor when you can" and "this is an emergency, get help now" mean the same thing in Fit360's lessons. *(False — sets up the distinction this lesson teaches.)*
 
@@ -72,7 +72,7 @@ Spend extra time on **"severe" breathlessness specifically**, since "breathing f
 
 Each answer shows a one-line explanation immediately after the learner responds.
 
-**Practical observation (reflective, not a live self-test):** "Think of a time you or someone you know felt something during physical activity — a faster heartbeat, tiredness, an ache (or invent a plausible example instead, if you'd rather not use a personal one). Using only today's three-way framework, write down which bucket it would fall into now — continue, routine referral, or emergency. This is practice sorting symptoms into the right pathway, not a diagnosis of what actually caused it." Offering a non-personal alternative keeps this an application of the taught skill, not an invitation to self-diagnose.
+**Practical observation (reflective, not a live self-test):** "Think of a time you or someone you know felt something during physical activity — a faster heartbeat, tiredness, an ache (or invent a plausible example instead, if you'd rather not use a personal one). Using only today's three-way framework, write down which bucket it would fall into now — continue, routine referral, or emergency. This is practice sorting symptoms into the right pathway, not a diagnosis of what actually caused it. Do not use this activity to sort an active or current concerning symptom — if that's what's happening right now, and you're unsure which bucket it belongs in, treat it as the more urgent one and seek help rather than working through this exercise." Offering a non-personal alternative keeps this an application of the taught skill, not an invitation to self-diagnose.
 
 **Recall cards (spaced-repetition prompts):**
 - What is the standing referral line, word for word?

@@ -19,9 +19,15 @@ Fit360 is built by a three-member team: **Pankaj Bhagat** (founder, product owne
 
 ## How the team works
 
-- **Pankaj owns decisions.** Product scope, curriculum approval, safety wording, pricing and merges to `main` are his calls. When a choice is his, say so and ask. Don't decide silently.
+- **Pankaj owns decisions.** Product scope, curriculum approval, safety wording and pricing are his calls. Merges to `main` are his calls too, except the narrow, conditional curriculum auto-merge described below. When a choice is his, say so and ask. Don't decide silently.
 - **One Jira issue, one owner, one branch.** Each issue is assigned to Pankaj, Claude or Codex. Two agents never work on the same branch at the same time.
-- **Cross-review.** Where practical, the AI that did not write a change reviews it before Pankaj approves it. Reviewers check safety wording, sources, tests and scope as well as code.
+- **Cross-review.** Where practical, the AI that did not write a change reviews it before it merges. Reviewers check safety wording, sources, tests and scope as well as code.
+- **Conditional auto-merge for curriculum PRs (decided 2026-09-26; see `DECISIONS.md`).** For an ordinary Term 1 curriculum PR — a Jira task under the FIT-5 epic, editing content under `docs/curriculum/` — once the cross-reviewing AI explicitly and unambiguously reports no blockers (for example "no blockers — cleared for auto-merge"), the author may squash-merge it to `main` directly, without waiting for Pankaj, and must record the merge in the PR and the Jira issue. If the reviewer's verdict is mixed, hedged or unclear, treat it as **not** cleared and wait for Pankaj, same as before.
+  This does **not** apply to:
+  - Any change touching `docs/product/safety-and-ai-policy.md` (that file's own header still requires Pankaj's explicit approval, regardless of reviewer verdict).
+  - Any PR where the reviewer or author flags an open product decision that needs Pankaj's judgement, not just a content fix.
+  - Any process, engineering, or non-curriculum change — including changes to this file (`AGENTS.md`) itself.
+  This rule is bidirectional: it applies the same way whether Claude or Codex is the PR's author.
 - **Leave a trail.** Before you finish, update the Jira issue or PR with what changed, what was tested and what's left. Record any new decision or open question in `docs/DECISIONS.md` rather than in chat, because the other collaborator can't see your chat.
 - **Check before you touch.** Run `git status` and pull before starting. Never overwrite, reformat or "tidy" files outside your issue's scope.
 - **Disagree in writing.** If you think a doc, decision or another agent's change is wrong, raise it in the PR or in `DECISIONS.md` with your reasoning, and let Pankaj decide.

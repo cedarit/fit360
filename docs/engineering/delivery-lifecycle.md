@@ -17,9 +17,9 @@ There is no shared staging environment.
 
 | Who | Does | Does not |
 | --- | --- | --- |
-| Pankaj | Owns Jira, approves curriculum and safety wording, approves and merges PRs, handles releases | — |
-| Claude | Works assigned Jira issues on its own branch; reviews Codex's PRs | Merge to `main`; approve its own work |
-| Codex | Works assigned Jira issues on its own branch; reviews Claude's PRs | Merge to `main`; approve its own work |
+| Pankaj | Owns Jira, approves curriculum and safety wording, handles releases; merges any PR the cross-reviewer hasn't unambiguously cleared, any safety-policy change, and any non-curriculum/process change | Approve their own work (not applicable) |
+| Claude | Works assigned Jira issues on its own branch; reviews Codex's PRs; may squash-merge its own ordinary curriculum PR once Codex reports no blockers (see AGENTS.md's conditional auto-merge rule) | Approve its own work; merge a PR that isn't clearly cleared, a safety-policy change, or a non-curriculum change, without Pankaj |
+| Codex | Works assigned Jira issues on its own branch; reviews Claude's PRs; may squash-merge its own ordinary curriculum PR once Claude reports no blockers (see AGENTS.md's conditional auto-merge rule) | Approve its own work; merge a PR that isn't clearly cleared, a safety-policy change, or a non-curriculum change, without Pankaj |
 
 ## Lifecycle
 
@@ -29,7 +29,7 @@ There is no shared staging environment.
 4. **Verify locally:** run unit and integration tests. Run Playwright for user-facing flows. Check accessibility and safety copy where relevant.
 5. **Pull request:** push a focused branch (`feature/FIT-123-description`, `fix/…`, `docs/…`, `content/…`). The PR title starts with the Jira key. Include test evidence, and screenshots or recordings for UI changes.
 6. **Review:** the other AI reviews first where practical, then Pankaj. The reviewer checks code, tests, safety wording, sources and scope.
-7. **Merge and release:** squash merge only after checks pass and Pankaj approves. Deploy, run smoke checks and have a rollback plan.
+7. **Merge and release:** squash merge only after checks pass. For an ordinary curriculum PR the cross-reviewer has unambiguously cleared, the author may squash-merge directly (see AGENTS.md's conditional auto-merge rule); every other PR still needs Pankaj's approval and merge. Deploy, run smoke checks and have a rollback plan.
 8. **Observe:** log defects, feedback, safety concerns and follow-ups in Jira. Urgent safety issues come first.
 
 ## Handoffs between collaborators

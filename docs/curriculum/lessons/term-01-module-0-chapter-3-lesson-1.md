@@ -38,7 +38,8 @@ Something noticed during a lesson activity or ordinary life
 
 **Safety and scope boundary:** this lesson names only the emergency symptoms already listed in [safety-and-ai-policy.md](../../product/safety-and-ai-policy.md) — chest pain, fainting, severe breathlessness, signs of stroke or similar — and does not invent any additional symptom category. It never diagnoses what a symptom means; when genuinely unsure which bucket applies, the lesson teaches treating it as the more urgent case rather than guessing.
 - Standing referral line: *"Stop and speak to a qualified doctor or clinician. Fit360 is education, not medical assessment or treatment."*
-- Emergency pathway: chest pain, fainting, severe breathlessness, signs of stroke (for example sudden weakness on one side of the body, slurred speech, or a sudden and severe headache) or similar — seek emergency care immediately; in India, dial 112.
+- Emergency pathway: chest pain, fainting, **severe** breathlessness (for example, breathlessness bad enough that you can't speak a full sentence without stopping, or that comes on suddenly and doesn't ease with rest — an everyday description, not a clinical test, that mirrors public emergency-care guidance such as the NHS's "when to call 999" advice), signs of stroke (for example sudden weakness on one side of the body, slurred speech, or a sudden and severe headache) or similar — seek emergency care immediately; in India, dial 112.
+- This is deliberately distinct from breathing faster or feeling out of breath during ordinary activity (see the "continue" examples below) — the word "severe" is doing real work here, and this lesson gives it a concrete, recognisable marker rather than leaving it to the learner's guess.
 
 **Diagnostic quiz (ungraded, before teaching, to surface assumptions):**
 1. True or False: feeling a bit more out of breath than usual on a walk is always a medical emergency. *(False.)*
@@ -56,12 +57,15 @@ Something noticed during a lesson activity or ordinary life
 
 Make the distinction explicit and repeat it: these two lines are not interchangeable, and a learner should never be routed to "see a doctor sometime" when the emergency pathway applies. When genuinely unsure which bucket a symptom belongs in, treat it as the more urgent one.
 
+Spend extra time on **"severe" breathlessness specifically**, since "breathing faster" (an ordinary, continue-the-activity sensation) and "severe breathlessness" (an emergency) can otherwise sound like a matter of degree a learner has to guess at. Give a concrete marker instead of leaving "severe" undefined: breathlessness bad enough that talking in full sentences becomes difficult, or breathlessness that starts suddenly and does not ease with rest, belongs in the emergency bucket. Ordinary faster or heavier breathing that still allows normal conversation, during activity that would reasonably cause it, belongs in "continue."
+
 **Visual/lab:** no interactive lab is attached to Module 0. Content requirement for design: a simple three-branch decision-flow graphic (continue / routine referral / emergency) using plain, non-alarming iconography — no graphic medical imagery, no simulated emergency footage.
 
-**Self-check (ungraded, formative):** scenario quiz — sort 5–6 short vignettes into "continue," "routine referral" or "emergency," for example:
-- "Your breathing gets a bit faster during a brisk walk." → continue.
+**Self-check (ungraded, formative):** scenario quiz — sort 6–7 short vignettes into "continue," "routine referral" or "emergency," for example:
+- "Your breathing gets a bit faster during a brisk walk, but you can still chat normally." → continue.
 - "You've had a dull ache in your knee for two weeks that isn't going away." → routine referral.
 - "You suddenly feel crushing chest pain and shortness of breath." → emergency, dial 112.
+- "You're so breathless, without any chest pain, that you can't get a full sentence out — it came on suddenly and isn't easing." → emergency, dial 112 (this scenario exists specifically to show that severe breathlessness alone, with no chest pain, is still an emergency).
 - "You feel a little more tired than usual after a long day." → continue.
 - "One side of your face suddenly feels weak and your speech is slurred." → emergency, dial 112.
 - "You have a persistent question about whether a supplement is right for you." → routine referral (Fit360 can help you write the question down; it can't answer it for you).
@@ -75,7 +79,7 @@ Each answer shows a one-line explanation immediately after the learner responds.
 - What is the emergency pathway, and what is the India emergency number?
 - Name two symptoms that belong in the emergency bucket, not the routine-referral bucket.
 
-**Sources:** both the standing referral line and the emergency-symptom list are quoted directly from [safety-and-ai-policy.md](../../product/safety-and-ai-policy.md) — Fit360's own approved policy, not an external factual claim requiring an evidence citation. This lesson invents no additional symptom, number or rule beyond what that policy already states.
+**Sources:** the standing referral line and the emergency-symptom list itself are quoted directly from [safety-and-ai-policy.md](../../product/safety-and-ai-policy.md) — Fit360's own approved policy, not an external factual claim requiring an evidence citation. This lesson adds one clarifying, non-diagnostic marker for what counts as "severe" breathlessness — being unable to speak in full sentences, or a sudden onset that doesn't ease with rest — which is not stated in the safety policy itself; it mirrors widely published public emergency-care guidance (for example, the [NHS's "when to call 999"](https://www.nhs.uk/nhs-services/urgent-and-emergency-care-services/when-to-call-999/) guidance on breathing difficulty) rather than being invented by Fit360. This is a plain-language recognition cue, not a clinical diagnostic threshold, and does not expand the emergency-symptom category beyond what the policy already lists.
 
 ## Explicitly out of scope for this lesson
 

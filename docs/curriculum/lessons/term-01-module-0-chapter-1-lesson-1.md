@@ -2,7 +2,7 @@
 
 **Term 1, Module 0, Chapter 0.1, Lesson 1.** This is Fit360's first vertical lesson slice: a complete, reviewable lesson outline, written to demonstrate the full lesson pattern end to end.
 
-**Open question this lesson does not settle:** Term 1's architecture ([term-01-the-body.md](../term-01-the-body.md)) recommends Module 0 over Module 1 as the anchor for the first vertical slice, and writes this lesson as the example. That recommendation is not a decision — see [DECISIONS.md](../../DECISIONS.md#open), "First vertical lesson slice topic," for the alternative (Module 1, Chapter 1.1) and the reasoning either way. Pankaj decides.
+**Status:** Pankaj has confirmed Module 0 as the anchor for Fit360's first vertical lesson slice — this lesson is that slice. See [DECISIONS.md](../../DECISIONS.md#decided).
 
 ## Chapter framing
 

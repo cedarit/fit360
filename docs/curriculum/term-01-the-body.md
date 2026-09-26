@@ -232,6 +232,7 @@ Prerequisite: Modules 1–3 (this module reuses anatomy, physiology and the safe
 - Assessment: rewrite exercise — convert an evaluative statement (for example "that squat looks unsafe") into a descriptive one using taught vocabulary. This is the direct safety-language rehearsal for the Lat Pulldown Lab.
 - Safe self-application: this chapter is itself a safety-boundary chapter; it sets the language rule the Lat Pulldown Lab and all of Term 2 must follow.
 - YouTube mapping: optional; likely more valuable as an in-app/text chapter than a video, since it is boundary-setting rather than visually rich.
+- Full lesson outline: [Lesson 4.5.1](lessons/term-01-module-4-chapter-5-lesson-1.md)
 
 **4.6 — Flagship lab: the Lat Pulldown Lab**
 - Outcomes, interaction states, explanations, quiz approach, source requirements, safety wording and exclusions are specified in full in [labs/lat-pulldown-lab.md](labs/lat-pulldown-lab.md), not duplicated here.

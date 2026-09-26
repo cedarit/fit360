@@ -50,6 +50,7 @@ No prerequisites. This module must be completed before any other, because it def
 - Assessment: applied exercise — rank/critique 3–4 short, clearly fictional example claims with sources attached; formative, with model answers shown after submission.
 - Safe self-application: learners may practise this skill on public claims they encounter elsewhere (for example a supplement advertisement); Fit360 never asks them to evaluate their own medical situation.
 - YouTube mapping: strong second-video candidate; reusable as a "how to read health news" explainer, referenced again before Term 5.
+- Full lesson outline: [Lesson 0.2.1](lessons/term-01-module-0-chapter-2-lesson-1.md).
 
 **0.3 — Safe self-application and the standing referral rule**
 - Outcomes: state the standing referral line from memory and explain why it exists; distinguish neutral self-observation from self-diagnosis; identify situations that require stopping and seeing a clinician rather than continuing a lesson activity; distinguish those *ordinary* concerning symptoms from *emergency* symptoms (chest pain, fainting, severe breathlessness, signs of stroke or similar) that require immediate emergency care, not a routine referral, and state the India emergency number (112).

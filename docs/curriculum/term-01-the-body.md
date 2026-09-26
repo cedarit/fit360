@@ -174,6 +174,7 @@ Prerequisite: Module 2.
 - Assessment: matching exercise (activity example → dominant pathway) using clearly qualitative, source-cited ranges only — no invented precise thresholds.
 - Safe self-application: none; any numeric range used must trace to a cited source (for example an ACSM or NSCA position stand) and flag where evidence is mixed.
 - YouTube mapping: strong video candidate — the classic "three energy systems" explainer, differentiated by citing sources.
+- Full lesson outline: [Lesson 3.2.1](lessons/term-01-module-3-chapter-2-lesson-1.md). Source: OpenStax, *Anatomy and Physiology 2e*, §10.3 (CC BY-NC-SA).
 
 **3.3 — How the systems overlap, and the influence of duration and intensity**
 - Outcomes: explain that the three pathways operate together rather than as on/off switches; describe qualitatively how duration and intensity shift each pathway's relative contribution.

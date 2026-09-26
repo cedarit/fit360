@@ -148,6 +148,7 @@ Prerequisite: Module 1.
 - Assessment: short-answer plus a concept check that explicitly tests "what this is NOT."
 - Safe self-application: no self-application activity touches hormones or test results — conceptual only; if a learner raises their own lab results, the standing referral line and the AI assistant rules in the [safety and AI policy](../product/safety-and-ai-policy.md) apply.
 - YouTube mapping: lower priority for an early video; a candidate for a later "stress response to exercise" explainer.
+- Full lesson outline: [Lesson 2.4.1](lessons/term-01-module-2-chapter-4-lesson-1.md). Source: OpenStax, *Anatomy and Physiology 2e*, §§1.5 and 17.6 (CC BY-NC-SA).
 
 ---
 

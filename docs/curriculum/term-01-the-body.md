@@ -103,6 +103,7 @@ Prerequisite: Module 0.
 - Assessment: labelling (skeleton/joint diagram) plus matching (joint type → example joint).
 - Safe self-application: no self-assessment of joint health, laxity or injury — naming and classifying only.
 - YouTube mapping: strong visual/animation candidate; diagrams reusable in Term 2.
+- Full lesson outline: [Lesson 1.3.1](lessons/term-01-module-1-chapter-3-lesson-1.md). Source: OpenStax, *Anatomy and Physiology 2e*, §§4.3, 7.1, 9.1 and 9.4 (CC BY-NC-SA).
 
 **1.4 — Major muscles and how they are named**
 - Outcomes: name major exercise-relevant muscles at an introductory level; explain at least two muscle-naming conventions (location, shape, number of heads/origins, action); distinguish prime mover, synergist/contributor and stabiliser, ready for use in the Lat Pulldown Lab.

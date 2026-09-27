@@ -8,13 +8,13 @@
 
 **Learning objectives:**
 1. Name and describe, in plain language, the joint actions: flexion, extension, abduction, adduction, internal (medial) rotation, external (lateral) rotation, pronation and supination.
-2. Connect flexion/extension and abduction/adduction to the plane of motion each typically occurs in (from Lesson 1.2.1), and explain that internal/external rotation and pronation/supination are rotational movements not confined to a single cardinal plane.
+2. Connect flexion/extension and abduction/adduction to the plane of motion each typically occurs in (from Lesson 1.2.1), and state that this introductory lesson does not assign a cardinal-plane label to internal/external rotation or pronation/supination, since the cited source doesn't define one for them.
 3. Given a simple, everyday movement, name the joint action(s) involved, at an introductory level.
 
 **Learner capabilities (what a learner can do afterwards):**
 - Given a labelled diagram or short clip of a simple joint movement, name the joint action.
 - Explain, in one sentence each, what flexion/extension and abduction/adduction do to the angle or position of a limb.
-- State which plane flexion/extension and abduction/adduction are each typically associated with, and explain why internal/external rotation and pronation/supination aren't given a single-plane label instead.
+- State which plane flexion/extension and abduction/adduction are each typically associated with, and state that this lesson does not assess a cardinal-plane label for internal/external rotation or pronation/supination.
 
 **Prerequisites:** [Lesson 1.2.1 — Directional terms and planes of motion](term-01-module-1-chapter-2-lesson-1.md); [Lesson 1.3.1 — The skeleton, joints and connective tissue](term-01-module-1-chapter-3-lesson-1.md).
 
@@ -56,13 +56,13 @@ Planes of motion (Lesson 1.2.1)          Joint types (Lesson 1.3.1)
 - **Internal (medial) and external (lateral) rotation** — "Movement that brings the anterior surface of the limb toward the midline of the body is called medial (internal) rotation. Conversely, rotation of the limb so that the anterior surface moves away from the midline is lateral (external) rotation."
 - **Pronation and supination** — these are specifically "movements of the forearm," distinct from shoulder rotation. In the supinated position, the two forearm bones (radius and ulna) are parallel; in the pronated position, they cross to form an "X-shape."
 
-Reconnecting to Lesson 1.2.1's planes: flexion/extension pair with the sagittal plane; abduction/adduction pair with the frontal (coronal) plane, exactly as those lessons previewed. Internal/external rotation and pronation/supination are rotational movements around a joint's long axis rather than movements confined to one of the three cardinal planes, and this lesson does not force them into a plane label that OpenStax's own definition does not use.
+Reconnecting to Lesson 1.2.1's planes: flexion/extension pair with the sagittal plane; abduction/adduction pair with the frontal (coronal) plane, exactly as those lessons previewed. §9.5 does not itself assign a cardinal-plane label to internal/external rotation or pronation/supination — some biomechanics conventions associate rotational actions with the transverse plane, but that convention isn't established by this lesson's cited source, so this introductory lesson deliberately teaches plane labels only for flexion/extension and abduction/adduction, and does not assess a plane label for the rotational actions rather than asserting one either way.
 
 **Visual/lab:** no interactive lab is attached to Chapter 4.1 itself — this vocabulary is directly reused by the Lat Pulldown Lab (Chapter 4.6). Content requirement for design: short looping clips of each joint action pair (for example, elbow flexion/extension; shoulder abduction/adduction; forearm pronation/supination), each labelled with its plane where applicable, matching the format used for Lesson 1.2.1's plane clips.
 
 **Self-check (ungraded, formative):**
 - Labelling: given a short clip or diagram of a simple joint movement, name the joint action.
-- Matching: match each joint action pair to the plane it typically occurs in (or "rotational, no single plane" for internal/external rotation and pronation/supination).
+- Matching: match flexion/extension and abduction/adduction to the plane each typically occurs in. This lesson does not ask a learner to match internal/external rotation or pronation/supination to a cardinal plane, since the cited source doesn't assign one.
 
 **Practical observation (safe self-application):** "Perform (or picture) one simple, pain-free arm or leg movement. Name the joint action using today's vocabulary, and say which plane it's associated with if it has one. If this movement causes pain or another concerning symptom, stop and speak to a qualified doctor or clinician; Fit360 is education, not medical assessment or treatment." This is naming a joint action, not assessing whether the movement is correct, safe or healthy — no form or injury-risk judgement is made, consistent with the safe self-application rule set in Chapter 0.3.
 
@@ -76,7 +76,7 @@ Reconnecting to Lesson 1.2.1's planes: flexion/extension pair with the sagittal 
 
 This section was fetched and verified directly before writing.
 
-**Source limitations:** §9.5 covers additional joint actions (for example circumduction, opposition, elevation/depression, inversion/eversion, dorsiflexion/plantar flexion) that this lesson deliberately excludes, to keep the introductory vocabulary set to what Chapter 4.2 onward and the Lat Pulldown Lab actually require; a later chapter or lab spec update may introduce further joint-action terms if a specific exercise needs them, sourced the same way at that time. This lesson makes no population-specific claim, so no Indian-population evidence caveat applies.
+**Source limitations:** §9.5 covers additional joint actions (for example circumduction, opposition, elevation/depression, inversion/eversion, dorsiflexion/plantar flexion) that this lesson deliberately excludes, to keep the introductory vocabulary set to what Chapter 4.2 onward and the Lat Pulldown Lab actually require; a later chapter or lab spec update may introduce further joint-action terms if a specific exercise needs them, sourced the same way at that time. An earlier draft of this lesson also asserted that internal/external rotation and pronation/supination are "not confined to a single cardinal plane" — Codex's review correctly caught that this is itself an unsourced biomechanics claim (some conventions associate rotational actions with the transverse plane), not something §9.5 establishes either way. This has been corrected throughout to a scope limitation instead: this introductory lesson simply does not assign or assess a cardinal-plane label for those two joint-action pairs, rather than asserting they lack one. This lesson makes no population-specific claim, so no Indian-population evidence caveat applies.
 
 ## Explicitly out of scope for this lesson
 

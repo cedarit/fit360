@@ -24,8 +24,7 @@ ATP — "the energy currency of cells"
    │  used immediately to power cell/tissue/organ function,
    │  including muscle contraction
    ▼
-ATP is unstable and cannot be stored in large amounts
-   │  muscle ATP stores are very low —
+Muscle stores of ATP are very low
    │  enough for only a few seconds of contraction
    ▼
 ATP must be continually resynthesised during activity
@@ -45,7 +44,7 @@ ATP must be continually resynthesised during activity
 
 **Explanation:**
 - **ATP as the energy currency** (OpenStax, *Anatomy and Physiology 2e*, §24.1, "Overview of Metabolic Reactions"): "ATP, the energy currency of cells, can be used immediately to power molecular machines that support cell, tissue, and organ function." Food (carbohydrate, fat, and to a lesser extent protein) is broken down through a series of reactions, and a portion of that energy is transferred to ATP — which is the form the cell can actually use right away. That's the "currency" idea: food is like raw material in a bank vault; ATP is the cash the cell can spend immediately.
-- **Why it must be continually resynthesised** (OpenStax, §10.3, "Muscle Fiber Contraction and Relaxation"): ATP is an unstable molecule, and the body can't store large amounts of it. In muscle specifically, "the amount of ATP stored in muscle is very low, only sufficient to power a few seconds worth of contractions." Because contraction uses up ATP continuously, ATP must be regenerated and replaced quickly for contraction to keep going.
+- **Why it must be continually resynthesised** (OpenStax, §10.3, "Muscle Fiber Contraction and Relaxation"): in muscle specifically, "the amount of ATP stored in muscle is very low, only sufficient to power a few seconds worth of contractions." Because contraction uses up ATP continuously, and the muscle's own stored supply is so small, ATP must be regenerated and replaced quickly for contraction to keep going.
 - This lesson stops here, deliberately: *how* the body regenerates ATP quickly enough — the phosphagen, glycolytic and oxidative pathways, and how long each one contributes — is Chapter 3.2's job, not this one.
 
 **Visual/lab:** no interactive lab is attached to Chapter 3.1. Content requirement for design: a short animation showing ATP being "spent" (broken down to power contraction) and needing to be "topped up" again, using a currency/spending metaphor rather than a chemical-structure diagram, to keep this introductory and qualitative.
@@ -60,11 +59,11 @@ ATP must be continually resynthesised during activity
 
 **Sources:** OpenStax, *Anatomy and Physiology 2e* (CC BY-NC-SA — see the licensing note on Lesson 1.1.1 and the open decision in [DECISIONS.md](../../DECISIONS.md#open) #12; the same commercial-use consideration applies here):
 - [§24.1, "Overview of Metabolic Reactions"](https://openstax.org/books/anatomy-and-physiology-2e/pages/24-1-overview-of-metabolic-reactions) — ATP as "the energy currency of cells," quoted verbatim.
-- [§10.3, "Muscle Fiber Contraction and Relaxation"](https://openstax.org/books/anatomy-and-physiology-2e/pages/10-3-muscle-fiber-contraction-and-relaxation) — ATP's instability, low storage, and the need for continual resynthesis, quoted verbatim.
+- [§10.3, "Muscle Fiber Contraction and Relaxation"](https://openstax.org/books/anatomy-and-physiology-2e/pages/10-3-muscle-fiber-contraction-and-relaxation) — muscle's low ATP storage and the need for continual resynthesis, quoted verbatim.
 
 Both sections were fetched and verified directly before writing.
 
-**Source limitations:** §10.3 also gives specific pathway timings (for example, creatine phosphate providing roughly 15 seconds of energy, glycolysis roughly a minute). This lesson deliberately does not use those figures — they belong to Chapter 3.2's own content on the specific energy pathways, and using them here would pre-empt and duplicate that chapter rather than staying within this chapter's single-concept scope. This lesson makes no population-specific claim, so no Indian-population evidence caveat applies.
+**Source limitations:** an earlier draft of this lesson described ATP as "an unstable molecule" that "cannot be stored in large amounts" — Codex's review correctly caught that §10.3 does not call ATP unstable, and that §24.1 (this lesson's own other source) explicitly says ATP can be stored for future energy demands, directly contradicting that broader claim. This has been corrected to the narrower, directly-sourced statement: muscle specifically stores only a few seconds' worth of ATP, per §10.3. §10.3 also gives specific pathway timings (for example, creatine phosphate providing roughly 15 seconds of energy, glycolysis roughly a minute). This lesson deliberately does not use those figures — they belong to Chapter 3.2's own content on the specific energy pathways, and using them here would pre-empt and duplicate that chapter rather than staying within this chapter's single-concept scope. This lesson makes no population-specific claim, so no Indian-population evidence caveat applies.
 
 ## Explicitly out of scope for this lesson
 

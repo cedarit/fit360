@@ -1,6 +1,6 @@
 # Lesson 3.3.1 — How the energy systems overlap, and the influence of duration and intensity
 
-**Term 1, Module 3, Chapter 3.3, Lesson 1.** Builds on Lesson 3.2.1's three pathways. This lesson's sourcing needed unusually careful handling — see "Source limitations" below before treating this as settled the way earlier Module 3 lessons were.
+**Term 1, Module 3, Chapter 3.3, Lesson 1.** Builds on Lesson 3.2.1's three pathways. This lesson's central claim initially had a genuine sourcing gap, now resolved with a directly-verified peer-reviewed source — see "Sources and source limitations" below for the full history and the scope limits that remain.
 
 ## Chapter framing
 
@@ -32,7 +32,9 @@ Duration/intensity influence:
    very short, very high intensity → phosphagen contributes most
    short-to-moderate, high intensity → glycolytic contributes most
    longer, lower intensity → oxidative contributes most
-   (the others are still contributing some share throughout)
+   (per the cited source, this is a coordinated response where
+    all systems typically contribute to some degree — not an
+    exact, universal split for every activity or person)
 ```
 
 **Safety and scope boundary:** this lesson never claims to know which pathway is contributing most during any specific activity a learner personally does — it teaches the general concept and reasoning pattern only. No self-application activity exists for this chapter.
@@ -47,7 +49,7 @@ Duration/intensity influence:
 
 **Explanation:** Not quite. Lesson 3.2.1's "phosphagen, then glycolytic, then oxidative" framing is a useful simplification for learning the three pathways individually, but the more accurate picture — and the one this chapter's own learning outcome requires — is that all three pathways can contribute at the same time, with the *relative* contribution of each shifting as an activity's duration and intensity change, rather than one switching off completely before the next switches on.
 
-In practice, this means: a very short, very high-intensity effort leans most heavily on the phosphagen system, but the other two are still contributing some share. A short-to-moderate, high-intensity effort leans most heavily on the glycolytic system. A longer, lower-intensity effort leans most heavily on the oxidative system. The dominant contributor changes; none of the three simply switches off.
+In practice, this means: a very short, very high-intensity effort leans most heavily on the phosphagen system, with the other two generally continuing to contribute to some degree, per this coordinated-response pattern. A short-to-moderate, high-intensity effort leans most heavily on the glycolytic system. A longer, lower-intensity effort leans most heavily on the oxidative system. The dominant contributor changes; none of the three simply switches off — though this lesson does not claim to know the exact contribution of each system for any specific activity or person.
 
 **Visual/lab:** no interactive lab is attached to Chapter 3.3. Content requirement for design: a stacked-area style diagram (illustrative, not exact data) showing all three pathways contributing simultaneously, with the relative size of each area shifting as duration/intensity change — explicitly avoiding a diagram that looks like discrete on/off blocks.
 
@@ -59,11 +61,13 @@ In practice, this means: a very short, very high-intensity effort leans most hea
 - Why is "phosphagen, then glycolytic, then oxidative" a simplification rather than a literal switch sequence?
 - As duration increases and intensity decreases, which pathway's relative contribution tends to increase?
 
-**Sources and source limitations — read this section carefully, it's unusually important for this lesson:**
+**Sources and source limitations — read this section carefully, it records a real correction to this lesson's sourcing:**
 
-This lesson's central teaching point — that the three pathways overlap and contribute simultaneously in shifting proportions, rather than switching cleanly on and off — is the standard framing in exercise-science teaching (commonly discussed in resources such as the NSCA's *Essentials of Strength Training and Conditioning*) and matches this chapter's own required learning outcome. However, this specific framing was **not independently verified against a directly fetchable, quotable source in this session**, unlike every other claim in Modules 1–3 so far. OpenStax, *Anatomy and Physiology 2e*, [§10.3, "Muscle Fiber Contraction and Relaxation"](https://openstax.org/books/anatomy-and-physiology-2e/pages/10-3-muscle-fiber-contraction-and-relaxation) (CC BY-NC-SA) — the source used for Lessons 3.1.1 and 3.2.1 — was checked directly for this specific point, and it actually presents the three pathways as a **sequential handoff** ("as the ATP produced by creatine phosphate is depleted, muscles turn to glycolysis...") rather than explicitly describing simultaneous or overlapping contribution.
+This lesson's central teaching point — that the three pathways overlap and contribute simultaneously in shifting proportions, rather than switching cleanly on and off — is now sourced directly to a peer-reviewed review: Baker JS, McCormick MC, Robergs RA. ["Interaction among Skeletal Muscle Metabolic Energy Systems during Intense Exercise."](https://doi.org/10.1155/2010/905612) *Journal of Nutrition and Metabolism*, 2010;2010:905612 (open access, CC BY). Its abstract states directly: "The replenishment of ATP during intense exercise is the result of a coordinated metabolic response in which all energy systems contribute to different degrees based on an interaction between the intensity and duration of the exercise." This was fetched and verified directly against two independent university repository copies of the abstract (University of the West of Scotland and Charles Sturt University research portals — the publisher and PMC pages themselves returned bot-detection challenges that could not be bypassed) before citing.
 
-This lesson teaches the overlap/continuum framing anyway, because it is the widely accepted view in exercise physiology and matches what this chapter is specifically meant to correct (the "on/off switch" misconception) — but this is recorded here as a genuine evidence limitation, not glossed over: **before this lesson is finalised for publication, it needs a directly verifiable, quotable source for the overlap/continuum claim specifically** (for example, a fetchable ACSM or NSCA position statement, or a peer-reviewed exercise-physiology source), rather than resting on a general web-search characterisation of what such sources say. This is exactly the kind of source-strength distinction Chapter 0.2 teaches learners to notice, applied here to Fit360's own curriculum authoring.
+This corrects an earlier draft of this lesson, which taught the same overlap/continuum framing without an independently verified, directly-quotable source for it — OpenStax §10.3 (the source used for Lessons 3.1.1 and 3.2.1) presents the three pathways as a **sequential handoff** rather than simultaneous contribution, and that gap was disclosed rather than hidden at the time, per Codex's own review. Codex's subsequent review identified this specific paper as a candidate and it has now been independently fetched and verified, as recorded above.
+
+**Remaining scope limits, stated so this citation isn't overstated:** this paper is a review specifically focused on *intense* exercise; this lesson's broader claims about longer, lower-intensity efforts (where the oxidative system contributes most) are not directly covered by this paper's own stated focus, and remain the qualitative, general-pattern teaching already established by Lesson 3.2.1's OpenStax sourcing rather than a claim attributed to this new paper specifically. The paper's abstract establishes that systems contribute in a *coordinated*, *duration-and-intensity-dependent* way — it does not itself give an exact contribution split for any specific activity or person, and this lesson does not claim otherwise.
 
 ## Explicitly out of scope for this lesson
 

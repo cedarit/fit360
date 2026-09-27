@@ -181,7 +181,7 @@ Prerequisite: Module 2.
 - Assessment: scenario exercise — given an activity description, describe the likely qualitative mix of pathways with reasoning.
 - Safe self-application: none.
 - YouTube mapping: can combine with 3.2 into one video, or stand as a short follow-up.
-- Full lesson outline: [Lesson 3.3.1](lessons/term-01-module-3-chapter-3-lesson-1.md). **Sourcing note:** this lesson's central claim needs a stronger source before final publication — see the lesson's own "Sources and source limitations" section.
+- Full lesson outline: [Lesson 3.3.1](lessons/term-01-module-3-chapter-3-lesson-1.md). **Sourcing note:** this lesson's central claim, initially an unresolved sourcing gap, is now cited directly to a peer-reviewed review (Baker, McCormick & Robergs, 2010) with a scope caveat for lower-intensity activity — see the lesson's own "Sources and source limitations" section for the full detail.
 
 **3.4 — Recovery as a general physiological concept**
 - Outcomes: describe recovery, generally, as the body restoring energy stores and repairing tissue after activity; distinguish general recovery education from individualised recovery prescription or rehabilitation, which Fit360 does not provide; identify signs that call for clinical input rather than "pushing through," reusing 0.3's referral rule.

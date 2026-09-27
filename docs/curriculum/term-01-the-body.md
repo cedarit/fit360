@@ -144,12 +144,14 @@ Prerequisite: Module 1.
 - Assessment: sequence/flow-diagram ordering exercise (order the steps of oxygen delivery) plus short-answer.
 - Safe self-application: learners may notice their own heart rate or breathing rising during ordinary activity in neutral language; Fit360 never asks them to judge a specific number as healthy or unhealthy (excluded per the safety policy), and chest pain or severe breathlessness triggers the emergency-care line, not a lesson prompt.
 - YouTube mapping: strong visual/animation candidate (oxygen pathway diagram).
+- Full lesson outline: [Lesson 2.3.1](lessons/term-01-module-2-chapter-3-lesson-1.md). Source: OpenStax, *Anatomy and Physiology 2e*, §§19.4 and 22.4 (CC BY-NC-SA).
 
 **2.4 — Endocrine foundations, homeostasis and acute responses to activity**
 - Outcomes: explain homeostasis using a movement-relevant example; name one or two hormones commonly discussed in exercise contexts (for example adrenaline/epinephrine, cortisol) and their general, qualitative role in an acute response, with no dosing, therapeutic or diagnostic claims; explain why Fit360 will never interpret an individual's hormone levels or test results.
 - Assessment: short-answer plus a concept check that explicitly tests "what this is NOT."
 - Safe self-application: no self-application activity touches hormones or test results — conceptual only; if a learner raises their own lab results, the standing referral line and the AI assistant rules in the [safety and AI policy](../product/safety-and-ai-policy.md) apply.
 - YouTube mapping: lower priority for an early video; a candidate for a later "stress response to exercise" explainer.
+- Full lesson outline: [Lesson 2.4.1](lessons/term-01-module-2-chapter-4-lesson-1.md). Source: OpenStax, *Anatomy and Physiology 2e*, §§1.5 and 17.6 (CC BY-NC-SA).
 
 ---
 

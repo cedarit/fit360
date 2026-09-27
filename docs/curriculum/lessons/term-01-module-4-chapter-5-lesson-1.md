@@ -44,10 +44,10 @@ Module 4's vocabulary so far (4.1-4.4):
               │
               ▼
    Genuine concern about pain, injury risk
-   or movement ──────────────────────────────► standing referral rule:
-                                                see a qualified clinician
-                                                or coach who can assess
-                                                you directly
+   or a health-related movement question ────► standing referral rule:
+                                                see a qualified doctor
+                                                or clinician who can
+                                                assess you directly
 ```
 
 **Safety and scope boundary:** this chapter *is* the safety boundary for Module 4's vocabulary. It never labels any specific person's movement, technique or form as good, bad, correct, incorrect, safe or unsafe — that is a movement assessment, which requires seeing an individual directly and is outside what a curriculum, video or app can responsibly do. This mirrors the same boundary already set for test results and health data in the [safety and AI policy](../../product/safety-and-ai-policy.md): Fit360 explains general concepts, never verdicts on an individual.
@@ -67,7 +67,7 @@ Module 4's vocabulary so far (4.1-4.4):
 
 - **Descriptive vs. evaluative language, using Module 4's own vocabulary:** a descriptive statement uses Lessons 4.1.1–4.4.1's terms to say *what* is happening — "the knee flexes to about a right angle," "the feet are close together, giving a narrower base of support," "there's more forward lean than in the previous rep." An evaluative statement makes a judgement about whether that's good, bad, safe, unsafe, correct or incorrect for *this specific person*. Fit360 teaches and uses only the first kind.
 
-- **Restating the standing referral rule in this context:** if a learner has a genuine concern about their own movement, technique, pain or injury risk, the answer is the same standing referral rule taught in Lesson 0.3.1: *"Stop and speak to a qualified doctor or clinician. Fit360 is education, not medical assessment or treatment."* For movement and technique specifically, this can also mean a qualified coach or trainer who can assess the learner directly — but the key point is the same: this is not something a curriculum, video or app can safely do instead.
+- **Restating the standing referral rule in this context:** if a learner has a genuine concern about their own movement, technique, pain or injury risk, the answer is the same standing referral rule taught in Lesson 0.3.1, exactly as worded there: *"Stop and speak to a qualified doctor or clinician. Fit360 is education, not medical assessment or treatment."* This is the one referral for pain, injury risk or any concerning symptom — a coach or trainer is not a substitute for it. Separately, and only for general technique learning that raises no pain or injury-risk concern, a learner may also want a qualified coach or trainer's direct, in-person feedback; that is general skill instruction, not a response to a clinical concern, and does not replace the clinician referral above when one applies.
 
 **Visual/lab:** no interactive lab is attached to Chapter 4.5 itself; this chapter's rule is what makes the Lat Pulldown Lab (Chapter 4.6) safe to build at all. Content requirement for design: side-by-side text examples of matched descriptive/evaluative statement pairs (as in the rewrite exercise below), likely presented as in-app/text content rather than video, per this chapter's own YouTube mapping note.
 
@@ -84,7 +84,7 @@ Module 4's vocabulary so far (4.1-4.4):
 
 **Sources:** this lesson teaches Fit360's own scope decision rather than a new external factual claim, following the same sourcing precedent as Lesson [0.1.1](term-01-module-0-chapter-1-lesson-1.md); its source is the [safety and AI policy](../../product/safety-and-ai-policy.md) itself, and the standing referral rule it restates verbatim from Lesson [0.3.1](term-01-module-0-chapter-3-lesson-1.md). No external evidence citation is required for this lesson. The descriptive vocabulary it applies (joint actions, force, torque, stability, mobility, flexibility) was already sourced and cited in Lessons 4.1.1–4.4.1 and is not re-cited here.
 
-**Source limitations:** not applicable — this lesson makes no new factual or population-specific claim; it applies an already-established Fit360 policy and an already-established lesson's exact wording to a new context.
+**Source limitations:** not applicable — this lesson makes no new factual or population-specific claim; it applies an already-established Fit360 policy and an already-established lesson's exact wording to a new context. An earlier draft offered a qualified coach or trainer as an alternative to the clinician referral for movement/technique concerns — Codex's review correctly caught that this weakens the policy: a coach or trainer is not a substitute for the clinician referral when pain, injury risk or a concerning symptom is involved. Corrected so the clinician referral stands alone for those concerns, with a coach/trainer mentioned only as separate, non-clinical technique feedback that never substitutes for it.
 
 ## Explicitly out of scope for this lesson
 

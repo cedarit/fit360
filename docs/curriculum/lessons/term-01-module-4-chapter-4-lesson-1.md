@@ -11,7 +11,7 @@
 2. Explain movement variability as a normal, general concept, without labelling any individual's variation as a fault.
 
 **Learner capabilities (what a learner can do afterwards):**
-- Given a short description of a movement limitation, say in general terms whether it sounds more like a flexibility, mobility or stability issue, at an introductory level.
+- Given an abstract, non-person-specific concept card describing a movement scenario (for example, "lots of passive range at a joint, but little active control through that range"), say which definition — flexibility, mobility or stability — it illustrates, at an introductory level.
 - Explain in one sentence why two people doing "the same" movement can look different without either version being wrong.
 
 **Prerequisites:** [Lesson 4.1.1](term-01-module-4-chapter-1-lesson-1.md), [Lesson 4.2.1](term-01-module-4-chapter-2-lesson-1.md), [Lesson 4.3.1](term-01-module-4-chapter-3-lesson-1.md).
@@ -66,10 +66,10 @@ movement, not an error to correct
 **Visual/lab:** no interactive lab is attached to Chapter 4.4. Content requirement for design: a short video showing the same simple movement (for example, a forward reach) performed by several different people, visibly varying, paired with a simple diagram distinguishing flexibility (passive range), mobility (active controlled range) and stability (control during motion).
 
 **Self-check (ungraded, formative):**
-- Short-answer: given a brief description (for example, "can passively touch toes but wobbles when reaching down slowly while standing"), identify whether it sounds more like a flexibility, mobility, or stability question, at an introductory level.
+- Short-answer: given an abstract, non-person-specific concept card (for example, "a joint that can passively reach a large range, but wobbles when actively controlled through that same range while moving" — a general scenario, not a description of any real or hypothetical person), identify which definition — flexibility, mobility, or stability — it illustrates, at an introductory level.
 - Concept check: "Why doesn't the same movement have to look identical between two people to both be functional?"
 
-**Practical observation (safe self-application):** "Watch someone else perform a simple, everyday movement (like reaching down to pick something up), and then do the same movement yourself. Notice, in neutral language, any differences — without deciding which version is 'right.'" This is observation, not evaluation; per the standing safety boundary, Fit360 never asks a learner to rate their own or someone else's movement as good, bad, normal or abnormal.
+**Practical observation (safe self-application):** "Watch someone else perform a simple, everyday movement (like reaching down to pick something up), and then do the same movement yourself. Notice, in neutral language, any differences — without deciding which version is 'right.' If this movement causes pain, dizziness or another concerning symptom, stop and speak to a qualified doctor or clinician; Fit360 is education, not medical assessment or treatment." This is observation, not evaluation; per the standing safety boundary, Fit360 never asks a learner to rate their own or someone else's movement as good, bad, normal or abnormal.
 
 **Recall cards (spaced-repetition prompts):**
 - What's the difference between flexibility and mobility?
@@ -83,7 +83,7 @@ movement, not an error to correct
 
 All sources were fetched and verified directly before writing. Note: the two ACE articles are professional-organisation publications (per Fit360's evidence hierarchy in [PROJECT_CONTEXT.md](../../PROJECT_CONTEXT.md)), not Creative-Commons-licensed academic texts like the OpenStax sources used elsewhere in this module; brief attributed quotation for educational commentary is standard citation practice and raises no separate licensing question.
 
-**Source limitations:** an initial search surfaced a different ACE "mobility vs. flexibility" framing that treats movement variation between individuals as compensation or dysfunction to be corrected — the opposite of what this chapter's outcome requires. That framing is deliberately excluded here; the peer-reviewed Stergiou & Decker source is used specifically for the "variability is normal and functional" claim instead, and this lesson does not draw on that source's further discussion of pathology or nonlinear-dynamics measures, which are out of scope. This lesson makes no population-specific claim, so no Indian-population evidence caveat applies.
+**Source limitations:** an initial search surfaced a different ACE "mobility vs. flexibility" framing that treats movement variation between individuals as compensation or dysfunction to be corrected — the opposite of what this chapter's outcome requires. That framing is deliberately excluded here; the peer-reviewed Stergiou & Decker source is used specifically for the "variability is normal and functional" claim instead, and this lesson does not draw on that source's further discussion of pathology or nonlinear-dynamics measures, which are out of scope. An earlier draft of this lesson also asked learners to classify a described "movement limitation" as a flexibility/mobility/stability "issue" — Codex's review correctly caught that this is individual movement assessment, which this chapter's own safety boundary explicitly rules out. The learner capability and self-check have been rewritten to classify abstract, non-person-specific concept cards instead. This lesson makes no population-specific claim, so no Indian-population evidence caveat applies.
 
 ## Explicitly out of scope for this lesson
 

@@ -33,7 +33,8 @@ While the cg stays above the base of support → stable
 (a small displacement produces a restoring effect back toward balance)
    │
 If the cg moves outside the base of support → unstable
-(the displacement grows instead of being corrected — a fall)
+(the displacement grows instead of being corrected — the stance
+ becomes unstable and may need a corrective step or other support)
    │
    ▼
 Two general factors that increase stability:
@@ -67,7 +68,7 @@ Two general factors that increase stability:
 - Short-answer/diagram exercise: given two simple stances (for example, feet together vs. feet apart), predict which is more stable and explain why, in general terms.
 - Concept check: "What are the two general factors that increase stability in a stance?"
 
-**Practical observation (safe self-application):** "Stand in a simple, low-risk stance (for example, feet together) and then widen your stance. Notice, in general terms, whether one feels steadier — without judging your own balance as good or bad." Any dizziness, fall risk or instability concern noticed during this activity is not a "test" result to interpret; it is routed to the standing referral line, per Chapter 0.3.
+**Practical observation (safe self-application):** "Stand in a simple, low-risk stance (for example, feet together) and then widen your stance. Notice, in general terms, whether one feels steadier — without judging your own balance as good or bad. If you feel dizzy, unstable, or concerned about falling, stop and speak to a qualified doctor or clinician; Fit360 is education, not medical assessment or treatment." Any dizziness, fall risk or instability concern noticed during this activity is not a "test" result to interpret — the instruction above applies directly within the activity itself, consistent with the standing referral rule taught in Chapter 0.3.
 
 **Recall cards (spaced-repetition prompts):**
 - What is a base of support?
@@ -76,7 +77,7 @@ Two general factors that increase stability:
 
 **Sources:** OpenStax, *College Physics 2e*, [§9.3, "Stability"](https://openstax.org/books/college-physics-2e/pages/9-3-stability) (CC BY-NC-SA — see the licensing note on Lesson 1.1.1 and the open decision in [DECISIONS.md](../../DECISIONS.md#open) #12, including its note on OpenStax's separate LLM-training restriction; the same commercial-use consideration applies here). This section was fetched and verified directly before writing.
 
-**Source limitations:** §9.3 also covers neutral equilibrium, worked examples involving a chicken's anatomy, and a sex-based comparison of centre-of-gravity height; this lesson deliberately excludes all three as unnecessary for this chapter's introductory human-movement scope, to avoid both tangential content and any population-specific claim not required by the learning objectives. This lesson makes no population-specific claim of its own, so no Indian-population evidence caveat applies. As noted above, this lesson uses "centre of gravity" rather than "centre of mass" because that is the term the verified source actually uses.
+**Source limitations:** §9.3 also covers neutral equilibrium, worked examples involving a chicken's anatomy, and a sex-based comparison of centre-of-gravity height; this lesson deliberately excludes all three as unnecessary for this chapter's introductory human-movement scope, to avoid both tangential content and any population-specific claim not required by the learning objectives. An earlier draft also described losing balance beyond the critical point as "a fall" — Codex's review correctly noted the source establishes instability (a growing, uncorrected displacement), not that every such displacement inevitably ends in a fall; corrected to "becomes unstable and may need a corrective step or other support." This lesson makes no population-specific claim of its own, so no Indian-population evidence caveat applies. As noted above, this lesson uses "centre of gravity" rather than "centre of mass" because that is the term the verified source actually uses.
 
 ## Explicitly out of scope for this lesson
 
